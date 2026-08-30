@@ -1,0 +1,1 @@
+timestamp,client_ip,method,url,url_length,path_length,query_length,num_params,num_quotes,num_percent,num_semicolons,num_dashes,num_slashes,num_dots,has_sql_keywords,has_xss_keywords,has_path_traversal,body_length,header_count,method_get,method_post,is_attack,confidence
